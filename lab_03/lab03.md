@@ -1,0 +1,4 @@
+## A High Country Downhill
+### A Map of a Classic Boone Area Mountain Bike Route.
+
+This web map is something that I'm sure a lot of mountain bikers in the area have seen online, but never in this format that singles it out.  With the description and waypoints along the route, this gives really great information to those who are interested in riding this trail.  With interactive pop-ups on some of the map markers, the reader will have a good representation the trail as well as some other important places around the area.  I gathered the GPX file from [Caltopo.com](https://caltopo.com/map.html#ll=35.67124,-82.39386&z=12&b=mbt) where I had mapped out the line within that software.  Once I exported the GPX file and opened it in geoJson, I added my waypoint markers as well as a simple name for all of them so the reader could see it on the map.
